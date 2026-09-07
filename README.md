@@ -77,7 +77,7 @@ Explore my **AI Engineering portfolio**, featuring my projects, technical skills
 * ✨ **Generative AI** — LLMs, Prompt Engineering, Embeddings, LLM APIs
 * 🔎 **RAG** — Vector Databases, Semantic Search, Retrieval-Augmented Generation, LangChain
 * 🤖 **AI Agents** — Agentic Workflows, Tool Calling, Multi-Agent Systems
-* ⚙️ **AI Engineering** —
+* ⚙️ **AI Engineering** — FastAPI, REST APIs, Docker, Git, MLOps
 
 ---
 
