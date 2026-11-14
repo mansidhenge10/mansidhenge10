@@ -28,7 +28,7 @@ Building practical AI applications and continuously learning how to design, deve
 ## 📄 Resume
 
 <a
-  href="/Mansi_Dhenge_Resume.pdf"
+  href="/MANSIDHNEGE.PDF"
   target="_blank"
   rel="noopener noreferrer"
 >
