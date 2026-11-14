@@ -35,7 +35,7 @@ Explore my experience, technical skills, projects, education, and certifications
 
 Explore my **AI Engineering portfolio**, featuring my projects, technical skills, and AI/ML work.
 
-🔗 **[View My Portfolio](YOUR_PORTFOLIO_LINK)**
+🔗 **[View My Portfolio](https://mansidhenge10.vercel.app/)**
 
 
 ## 🛠️ Tech Stack
