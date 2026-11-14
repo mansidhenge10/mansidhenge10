@@ -26,7 +26,7 @@ Building practical AI applications and continuously learning how to design, deve
 🎯 Career Goal: To work as an AI Engineer and build reliable, useful, and scalable AI applications.
 ## 📄 Resume
 
-<a href="MANSIDHENGE.pdf" target="_blank" rel="noopener noreferrer">
+<a href="MANSIDHENGE .pdf" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/View_My_Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View My Resume"/>
 </a>
 
