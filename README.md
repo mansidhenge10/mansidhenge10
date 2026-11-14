@@ -27,11 +27,16 @@ Building practical AI applications and continuously learning how to design, deve
 
 ## 📄 Resume
 
-<a href="./MANSIDHNEGE.PDF" target="_blank">
-  <img src="https://img.shields.io/badge/View_My_Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View My Resume"/>
+<a
+  href="/MANSIDHNEGE.PDF"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <img
+    src="https://img.shields.io/badge/View_My_Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+    alt="View My Resume"
+  />
 </a>
-
-<p align="center">
 Explore my experience, technical skills, projects, education, and certifications.
 </p>
 ## 🌐 Portfolio
