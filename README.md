@@ -37,7 +37,6 @@ Explore my **AI Engineering portfolio**, featuring my projects, technical skills
 
 🔗 **[View My Portfolio](https://mansidhenge10.vercel.app/)**
 
-
 ## 🛠️ Tech Stack
 
 ---
